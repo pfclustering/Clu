@@ -1,5 +1,7 @@
 # Clu
-Contains studies of new clustering algorithms
+Contains studies of new clustering algorithms using graph networks.
+
+Details on the study are contained in the presentation (2020_09_09_PF_ECALclustering_GNNs.pdf)[2020_09_09_PF_ECALclustering_GNNs.pdf]
 
 
 ## Environment
